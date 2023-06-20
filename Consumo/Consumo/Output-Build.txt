@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Consumo, Configuration: Debug Any CPU ------
+1>C:\WS_TC\Consumo\Consumo\WS_Consumo.vb(17,5): warning BC42353: Function 'ObtenerTC_Dia' doesn't return a value on all code paths. Are you missing a 'Return' statement?
+1>  Consumo -> C:\WS_TC\Consumo\Consumo\bin\Debug\Consumo.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

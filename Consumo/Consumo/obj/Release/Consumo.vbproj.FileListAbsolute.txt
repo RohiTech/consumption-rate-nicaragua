@@ -1,0 +1,4 @@
+C:\WS_TC\Consumo\Consumo\obj\Release\Consumo.frmConsumoServicioWS.resources
+C:\WS_TC\Consumo\Consumo\obj\Release\Consumo.Resources.resources
+C:\WS_TC\Consumo\Consumo\obj\Release\Consumo.vbproj.GenerateResource.cache
+C:\WS_TC\Consumo\Consumo\obj\Release\Consumo.vbproj.CoreCompileInputs.cache
